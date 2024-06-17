@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[@class=\"twitter-typeahead\"]//input[@data-id=\"flight_from\"]\"}\n  (Session info: chrome=126.0.6478.61)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF642203E52+31618]\n\t(No symbol) [0x00007FF64217B0B9]\n\t(No symbol) [0x00007FF64203888A]\n\t(No symbol) [0x00007FF642088524]\n\t(No symbol) [0x00007FF64208862C]\n\t(No symbol) [0x00007FF6420CF787]\n\t(No symbol) [0x00007FF6420AD14F]\n\t(No symbol) [0x00007FF6420CCA80]\n\t(No symbol) [0x00007FF6420ACEB3]\n\t(No symbol) [0x00007FF64207A46B]\n\t(No symbol) [0x00007FF64207B001]\n\tGetHandleVerifier [0x00007FF64250A02D+3202397]\n\tGetHandleVerifier [0x00007FF642556A4D+3516285]\n\tGetHandleVerifier [0x00007FF64254C4C0+3473904]\n\tGetHandleVerifier [0x00007FF6422B5D56+760454]\n\t(No symbol) [0x00007FF642186B5F]\n\t(No symbol) [0x00007FF642181CF4]\n\t(No symbol) [0x00007FF642181E82]\n\t(No symbol) [0x00007FF64217122F]\n\tBaseThreadInitThunk [0x00007FF8F7D97344+20]\n\tRtlUserThreadStart [0x00007FF8F98E26B1+33]\n"
+}

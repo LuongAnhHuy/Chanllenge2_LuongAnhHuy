@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class=\"list-flight-des\"]//ul//li//strong[text()=\"Hà Nội\"]"
+}

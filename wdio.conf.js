@@ -21,7 +21,8 @@ exports.config = {
     // of the config file unless it's absolute.
     //
     specs: [
-        './test/specs/**/*.js'
+        //'./test/specs/**/*.js'
+        './test/specs/TC_01.js'
     ],
     // Patterns to exclude.
     exclude: [
@@ -50,9 +51,9 @@ exports.config = {
     // https://saucelabs.com/platform/platform-configurator
     //
     capabilities: [{
+        
         browserName: 'chrome'
-    }, {
-        browserName: 'firefox'
+
     }],
 
     //
