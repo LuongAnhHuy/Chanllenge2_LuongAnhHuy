@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//div[@class=\"list-flight-des\"]//ul//li[@value=\"Hà Nội (HAN)\"]"
-}
